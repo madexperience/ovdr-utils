@@ -1,0 +1,5 @@
+/User/SushiSimulator
+/User/Lua/init
+/User/Lua/init_1
+/User/metadata
+/User/WorldAssetList
